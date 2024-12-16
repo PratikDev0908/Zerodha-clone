@@ -1,0 +1,32 @@
+.nav-link{
+  margin-left: 40px;
+}
+.icon-container{
+  display: flex;
+  gap:20px;
+  font-size: 20px;
+}
+.icon-container-2{
+  display: flex;
+  gap:20px;
+  font-size: 20px;
+}
+#supportHero{
+  background-color:rgb(56,126,209);
+  color: white;
+}
+#supportHero a{
+  color: white;
+}
+#supportWrapper{
+  display: flex;
+  justify-content: space-between;
+  margin: 0 150px;
+}
+#supportHero input{
+  padding: 10px 190px;
+  width: 100%;
+  font-size: 20px;
+  border-radius: 5px;
+  border: none;
+}
